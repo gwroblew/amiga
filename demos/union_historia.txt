@@ -1,0 +1,160 @@
+Union (1992-)
+-------------
+POL> Agentx (music, 94), Amst (code, 94), Berserker (rayrace, 12/94), Brent
+     (gfx), Dan (music, 12/94), Docent (code, 12/92), Dr.DF0 (12/92), Easy
+     Rider (12/92), Hali (Karol Gozlinsko, code music, 94-96), Hires (gfx,
+     11/94), Irek P (swap, 12/92), Kefir (Marek Duda, code, 03/95), Kulfon
+     (music, 94), Mad Mack (gfx, 11/94), Magor (gfx, 03/95), Mr.Root (Robert
+     Korzeniewski, music, 12/92), Musashi (Gregorz Wroblewski, code, ex
+     Deform, 12/92-08/95), Ninja (Marek Lulkiewicz, 12/92), Pic (gfx,
+     08/95), PIl (Thomas, code, 08/95), PP (code, 08/95), Roberts (music,
+     08/95), Scorpic (music, 12/94), Scorpio (code gfx, 12/92), Sixtus
+     (music, 08/95), Snoopy (Wojciech Panufnik, music, 05/93-08/95), Tees
+     (gfx, 94), The Generat (gfx swap), Zajc (code, 11/94).
+
+Union was formed in 1992 by members of the groups Deform, Action Direct and
+Katharsis, based around the city of Warzaw, Poland. A very fitting name for
+a union of three groups... Their main claim to fame must surely be their
+amazing coder Musashi, who undoubtedly was Poland's #1 coder. Also, Hali is
+the author of the music utility program MOD2SAMP. They are also the long
+standing arrangers of the Intel Outside parties in Poland. They also
+released the disk mag ZigZag. The Union 'brand' is still around in the form
+of a company formed by Docent (http://www.union.pl).
+  1992 - The group was formed, and two small intros were released.
+  1993 - After releasing a small and unsuccessful (9th place) intro at The
+Gathering in april, the group got its act together and released the classic
+demo "Hallucinations and Dreams" [05/93] at the Mountain Congress in may,
+for which they were awarded second place in the competition. As far as we've
+been able to see no more releases were made this year. Musician Snoopy
+joined Energy sometime between august and december. It is possible that he
+later returned... Late this year Animal (gfx, 12/92-), Katani, Tom (code,
+12/92-), Python (gfx, 12/92-), Pluto (12/92-), Seq (12/92-) and XTD (music,
+12/92-) all left to join the newly formed polish section of TRSI.
+  1994 - April saw the group arranging their first party, the Primavera 94
+in Starachowice, Poland. Supposedly they released a demo at this party
+("Ambrozja", 7th position), but we have been unable to find any record of it
+outside of the party results... The party arranging duties must have been a
+good experience, because only four months later, in august, they were
+coarrangers of the Intel Outside 94 in Warzaw with Mystic. Here they
+competed in the graphics competition, but not in the intro or demo.   Polish
+graphician Lazur left for TPDL (the group built by former Union members Tom
+and Python together with Dreamer/TRSI) in september. Their next real release
+came with the intro "RGB" [11/94] at Gelloween in november, to a
+disappointing 6th position. They rounded the year off with another demo at
+The Party in denmark; "Beyond the Future" [12/94] finished 9th in the
+competition.
+  1995 - Primavera 95 was arranged in march this time. I have no official
+info on who arranged it, but it was probably Union once again. They released
+the demo "Zoombi" [03/95] at the competition, to a third position, and the
+intro "The Remains of the Pizza" [03/95] which finished second. September
+saw the group coarranging Intel Outside II, once again in cooperation with
+Mystic. The demo competition at this party was a great triumph for the
+group, securing BOTH of the top spots in the competition with the demos
+"Tear Down The Wall" [09/95] and "Braincell" [09/95] respectively! They also
+triumphed in the intro competition, though it's still uncertain which of
+their two entries was the winner, since the results just quote groups...
+They also secured the top two positions in the video demo category with
+"Illuminate" and "Flash of Hope".
+  1996 - For the Intel Outside Party 3 in august, they were now sole
+arrangers. They also released the demo "Your Amiga Can Do This" [08/96] for
+the competition, though it did not finish in the top three. Their video demo
+"Rave Extreme" won the video demo competition. Their video demo success
+continued at the Gravity 96 party in november, where they once again won
+with the video "VHS Number Three".
+  1997 - They were coarrangers of Intel Outside 4 in july.
+  1998 - Their first production for years came with the release of "IO Party
+5 Invitation" [08/98] at Quast 98, to a 7th position in the demno comp =)
+
+Redman (old handle Iceman) joined Mad Elks.
+
+  Bitcity BBS (1992, ECS Intro).
+  code: Prospex, gfx: Cygnus, music: "Stabilo Bozo" by Doze (ProTracker MOD
+  format). info: This intro announced the birth of the group.
+
+  40k Intro (1992, 28.12, ECS 40k Intro).
+  code: Scorpio, Docent, gfx: Scorpio, music: "Economy4" by XTD (ProTracker
+  MOD format). 15th in The Party 92 40k intro competition.
+
+  40k Intro (1993, 07.04, ECS Intro).
+  9th in The Gathering 93 intro competition.
+
+  Hallucinations and Dreams (1993, 02.05, Trackmo, 2 disks).
+  code: Tom, gfx: Animal, Python, music: "Modforhad" by Snoopy,
+  "Devastation" by XTD (ProTracker MOD format).
+  2nd in the Mountain Congress 93 demo competition.
+  info: Named in a 'best Polish demos' list in RAW #6.
+
+  Paradise PD Pack (1994, Intro).
+  code: Hali, gfx: Tees (logo), music: "Corrupt" by Kulfon (ProTracker MOD
+  format). info: Some Lemon.-like rotating logo. [zeg]
+
+  Strip Tease (1994, File).
+  code: Hali, Amst, gfx: Lazur, music: "Eddeban Ax" by Agentx & Hali
+  (Protracker MOD format).
+
+  ZigZag #8 (1994, Diskmag).
+  code: Docent, gfx: Animal, music: Mr.Root, Snoopy (Promizer 2 format).
+
+  RGB (1994, 13.11, 64k Intro).
+  code: Musashi, Zajc, gfx: Hires, Mad Mack (font), music: Snoopy (PP21
+  format). 6th in the Gelloween 94 64k intro competition.
+
+  Beyond the Future (1994, 28.12, AGA Demo).
+  code: Musashi, gfx: Lazur (logo), Berserker (traced credits logos), music:
+  Dan, Scorpic. 9th in The Party 4 demo competition.
+
+  Zoombi (1995, 12.03, Demo).
+  code: Kefir, gfx: Magor, music: Snoopy/Scope (The Player 6.1A format).
+  3rd in the Primavera 95 demo competition.
+
+  The Remains of the Pizza (1995, 12.03, Intro).
+  2nd in the Primavera 95 intro competition.
+
+  Rotate Mania (1995, 30.08, ECS 64k Intro).
+  code: PP, gfx: Pic, music: Snoopy (The Player 6.1A format).
+  Winner of the Intel Outside II 64k intro competition!
+  review: Not a bad little intro, though perhaps not quite good enough to
+  reach the very top of the competition. There are some very good routines,
+  like the impressive voxel terrain and the fullscreen HAM zoom rotator.
+  The music is nice too, with a very distinct c64 flavour to it. Not bad at
+  all, is my conclusion :)
+    If you run the demo with the parameter '?', like 'Rotate.exe ?' you'll
+  be presented with a number of options, like running without sound,
+  showing some messages and playing the hidden game. The game is a kind of
+  simple airhockey variation. This was PP's first intro for Union. [glenn]
+  GLE tested A1200/030-50/2mb chip, 16mb fast/3.0.
+
+  Some Faces (1995, 30.08, 64k Intro).
+  code: PIl, gfx: n/a, music: Sixtus (The Player 6.1A format)
+  Released for the Intel Outside II 64k intro competition.
+
+  Tear Down The Wall (1995, 30.08, AGA File).
+  code/gfx: Musashi, music: Roberts.
+  Winner of the Intel Outside 95 demo competition!
+  review: Heavily based on Pink Floyd's "The Wall" music and film, that is
+  what the first part of this Musashi tour-de-force occupies itself with.
+  Using demo effects, it recreates several moments from the film, while a
+  sampled rendition of the music plays in the background. Or tries to play,
+  since my machine (030-50) wasn't fast enough! As a result, it jerked and
+  played the music in jerks and spurts. I was much relieved when the second
+  part started, with NORMAL protracked music...It made the routines a whole
+  lot more enjoyable to watch :)
+    The second part is what I'd describe as the demo part of the show.
+  Here's where Musashi gets to do the usual phongs, bumps, zooms,
+  spacecuts and even a rather wild little doom without sticking to any
+  specific theme. In my opinion, this is the best part of the demo.
+  I felt that the theme of the first part was a little limiting for some of
+  his routines, making him unable to show their true potential. Here he can.
+  One major drawback about the entire demo, however, must surely the ever-
+  present shading. This is not the usual right-left pixel or every other
+  pixel is black kind, however. It seems a little more flexible and
+  variable, but is still quite annoying. I understand that it requires
+  less raster time, but that doesn't mean I have to like it ;) Musashi must
+  have used some kind of amazing internal compression to squeeze all this
+  into one single 867k file - I'd expect the sampled music alone to take
+  that much!! To conclude: Wow! Obviously requires some fast. [glenn]
+  GLE tested A1200/030-50/2mb chip, 4mb fast/3.0.
+
+  Braincell (1995, 30.08, Demo).
+  code: Hali, gfx: Pic, music Mr.Root.
+  2nd in the Intel Outside 95 demo competition.

@@ -1,0 +1,126 @@
+@DATABASE "TearDownTheWall.guide"
+
+
+@NODE MAIN "Tear Down The Wall Info File"
+
+Following text is available in languages:
+
+    @{"  english  " LINK english}
+
+    @{"   polski  " LINK polski}
+
+    @{"  deutsch  " LINK deutsch}
+
+    @{"  russkij  " LINK russkij}
+
+    @{" kiswahili " LINK kiswahili}
+
+so, select your favourite language and enjoy my lyrics. :)
+@ENDNODE
+@NODE english
+---------------------------------------------------------------------------
+
+                                  ENGLISH
+
+---------------------------------------------------------------------------
+
+   Finally  I've  finished  my  demo called "Tear Down The Wall".  The main
+file contains about 6 megabytes of data.  Music was sampled at frequency 21
+kHz  and  crunched  with  ratio 1:6.5.  My own samples cruncher is based on
+vector   quantization   and   uses   also   subsampling,   entropy  coding,
+subquantization  and linear aproximation of uncompressable data.  So if you
+find my method of compression interesting, just contact me.  "Tear Down The
+Wall" has got arexx-port 'BRICK' and recognized following commands:
+
+HardFilt 0 - turns hardware low-pass filter off
+HardFilt 1 - turns hardware low-pass filter on
+SoftFilt 0-3 - turns software noises-filter:
+               0 - off
+               1 - on high level
+               2 - on medium level
+               3 - on low level
+Surround 0-3 - turns surround-stereo effect:
+               0 - off
+               1 - on level 1
+               2 - on level 2
+               3 - on level 3
+Go - starts the demo
+
+   If you've got mono sound equipment turn off surround effect.
+
+Greetings are flowing to all computer maniacs.
+
+
+
+
+
+
+
+
+
+
+         ***************************************************
+         *     Turn down the wall of PC & Microsoft!!!     *
+         ***************************************************
+@ENDNODE
+@NODE POLSKI
+---------------------------------------------------------------------------
+
+                                  POLSKI
+
+---------------------------------------------------------------------------
+
+   Przypadkiem  udaîo  mi  sië nacisnâê odpowiedniâ kombinacjë klawiszy, co
+niechcâcy  spowodowaîo  zakoïczenie  moich  kilkunastodniowych  mëczarni  i
+wygenerowanie  dema  pt.  "Tear Down The Wall".  Plik gîówny zawiera ok.  6
+megabajtów danych, w tym 4.5 megabajta to muzyka Pink Floyd, spakowana moim
+pakerem   bazujâcym   na  kwantyzacji  wektorowej,  kodowaniu  entropijnym,
+subsamplingu,  subkwantyzacji oraz liniowej aproksymacji niekompresowalnych
+danych.   Demo  posiada  wbudowany  port ARexxa (opis w czëôci angielskiej)
+oraz wîasny plik konfiguracyjny.
+   Jeôli  posiadasz  sprzët  mono  wyîâcz  efekt  surround.
+@ENDNODE
+@NODE Deutsch
+---------------------------------------------------------------------------
+
+                                  DEUTSCH
+
+---------------------------------------------------------------------------
+
+   Mit  dem  Wirkung des Windes d??  Unwahrscheinlischkeiten ich habe Heute
+Morgen meine Demo beendet.  Die Musik von Pink Floyd ist mit meinem eigenem
+Packer,    der    benutzt    vektor   Quantiezierung   und   Untersampling,
+Unterquantiezierung  und  linearische  Approxiemierung  von  Unpackendische
+Daten.   Demo  hat  seine  eigene  ARexx-port  (beschreibung  im englischem
+Teile).
+   Wenn du hast mono Verstaerker schalt surround Effekt ab.
+@ENDNODE
+@NODE RUSSKIJ
+---------------------------------------------------------------------------
+
+                                  RUSSKIJ
+
+---------------------------------------------------------------------------
+
+   Segodnia  utrom  ya  okonchil  etu  demonstratsyu.   Pust' vsegda budet'
+Amiga!   Ya  vypustil  eyu  na  kopy-party v Varshavie.  Glovnoya programma
+poseschaet  6  megabajtov dela.  My uchilic' russkogo yazyka sem' - devyat'
+let  i ne moxem napisat' etogo teksta.  Escho ya hochu skazat', chto v etoj
+demonstratsji est' port AReexa (opisanie v anglisskoj chasti).
+   Jesli u tebya tol'ko mono ustrojstvo vyklyuch surround efekt.
+@ENDNODE
+@NODE KISWAHILI
+---------------------------------------------------------------------------
+
+                                 KISWAHILI
+
+---------------------------------------------------------------------------
+
+   Auhakika  unafikiri  nimejifunza  kiswahili  lini?   Je  kuwa mtu fulani
+kuelewa hii maneno?  Mimi ni mwanafunzi na ninakuwa rafiki George, Tanzania
+mwananchi.  Nimemaliza demo langu na nimechoka sana.  Ungalitaka kujua 'how
+to  fit  3.5  minutes of music one disk'?  Ninatumia vector quantization na
+subsampling,  subquantization,  entropy  coding  na  linear aproximation of
+uncompressable  data.   Wakati  ukuta  na lazima kumaliza hata hivyo.  Soma
+kiingereza maneno.  Kwa heri!
+@ENDNODE

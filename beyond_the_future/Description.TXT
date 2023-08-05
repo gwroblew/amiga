@@ -1,0 +1,21 @@
+Some infos to the source:
+
+- 'atom.d' is main source of the demo
+- use my Asm-One.pref (or you will get some warnings or troubles)
+- define 'ondisk' if you create final version (for testing don't define it)
+- i didn't save *.ilbm files (logos, credits, usw.) so you have to remove
+  from source everything what uses them
+- *.cmtext files are Crunchmania crunched files *.text (textures)
+- 'getback.s' , 'gettext.s' converts TARGA pictures to my own format
+  *.back - backgrounds; *.text - textures
+- 'getanim.s' is simplified anim cruncher and converter
+- 'getmusic.s' is simplified vector quantizer for music modules
+- i don't need to describe commands of my vector-language when you've
+  got so many examples
+- the *.obj file format (objects) is also not very complicated
+- hope i didn't forget to save any important file
+- be carefull! there are still bugs in this vector routine!
+  (try to remove them (he!,he!))
+
+>>> Ex nihili OMNIA <<<
+                        God
